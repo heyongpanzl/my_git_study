@@ -1,2 +1,2 @@
-# my_git_study
+# learngit
 git学习
